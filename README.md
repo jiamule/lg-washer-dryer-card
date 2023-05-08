@@ -1,3 +1,16 @@
+#在原作者基础上图标改成中文标识而已，增加了自己用的lg星云黑洗烘套装图片
+看效果
+
+
+
+![xiaoguo](https://github.com/jiamule/lg-washer-dryer-card/blob/main/lggggg.png)
+
+
+
+===下面是原作者的内容=
+
+
+
 ![112699616-35751b00-8e5a-11eb-9bf8-cc09af4847a9](https://user-images.githubusercontent.com/2007088/219449339-a4ee4d38-c8d2-45b9-96c0-0c4ad1325cb0.PNG)
 ![138618307-c7b6a9f0-073e-44df-a70a-8c0acbcb033b](https://user-images.githubusercontent.com/2007088/219449465-211f7ba4-1b8d-4262-8b84-d91e2aa4fd36.png)
 
